@@ -4,7 +4,7 @@ public class SW06 {
 
     public static void main(String[] args) {
         //nested switch finding sub in the year
-        String Branch=" ";//
+        String Branch=" ";  //
         int year=1; //v2 >> condition
         switch (year) {
             case 1:
